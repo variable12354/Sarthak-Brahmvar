@@ -57,7 +57,6 @@ I focus on **clean architecture, performance optimization, and modern Android de
 
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2F80ED?style=for-the-badge&logo=githubactions&logoColor=white)
-![CircleCI](https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white)
 
 ---
 
