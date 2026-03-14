@@ -1,34 +1,77 @@
-# Hi 👋 I'm Sarthak
+# Hi 👋 I'm Sarthak Arora
 
-💻 Android Developer | Kotlin | Flutter | JetPack Compose | KMP | Spring Boot
+💻 **Android Developer | Kotlin | Jetpack Compose | Kotlin Multiplatform | Flutter | Flutter Window** 
 
--  Senior Android Developer | Product Thinker
--  Based in Ahmedabad | 🌍 Open to global roles
-- 👨‍💻 4+ years experience in Android development & Flutter development
-- Specializing in Jetpack Compose, Kotlin, and building performance, scalable mobile apps
-- 📫 How to reach me: arorasarthak54@gmail.com
+🚀 Passionate Android developer with **4+ years of experience** building scalable and high-performance mobile applications.
+I focus on **clean architecture, performance optimization, and modern Android development**.
 
-### 🚀 Tech Stack
-- Kotlin
-- Java
-- Flutter
-- Jetpack Compose
+---
 
-### 🏗 Architecture & Design
-MVVM | Clean Architecture | MVI
+# 👨‍💻 About Me
 
-### 🧪 Testing & Debugging
-LeakCanary | Android Profiler 
+* 🔭 Android Developer at **Devstree IT Solution**
+* 📱 4+ years building **production Android apps**
+* 🧠 **MVVM Architecture & System Design**
+* 🌱 Currently exploring **Jetpack Compose**
+* 💬 Ask me about **Android, Kotlin, Jetpack Compose**
 
-### ⚙️ Build & Tooling
-Gradle | Git | GitHub Actions | AntiGravity |   
-Android Studio 
+---
 
-### ☁️ Backend & Cloud
-Spring | MySQL
+# 🛠 Skills
 
-### 📊 Analytics & Monitoring
-Firebase | Crashlytics 
+## 🟢 Mobile Development
 
-### 🧩 Productivity & Collaboration
-Jira | Notion | Figma | Slack | BaseCamp
+Android • Kotlin • Java • Jetpack Compose • Kotlin Multiplatform • Flutter
+Dagger • Hilt • XML • Room • WorkManager
+ViewModel • LiveData • Navigation • Paging3
+Data Binding • ViewBinding
+Coroutines • Kotlin Flow • RxJava
+Retrofit • OkHttp • REST API • Soket
+
+---
+
+## 🏗 Architecture & Design
+
+MVVM • Clean Architecture • MVI
+
+---
+
+## 🧪 Testing & Debugging
+
+LeakCanary • Android Profiler
+
+---
+
+## ⚙️ Build & Tooling
+
+Gradle • GitHub Actions
+Git • Android Studio
+
+---
+
+## ☁️ Backend & Cloud (Exposure)
+
+Spring • MySQL • AWS • Redis
+
+---
+
+## 📊 Analytics & Monitoring
+
+Firebase • Crashlytics
+
+---
+
+## 🧩 Productivity & Collaboration
+
+Jira • Notion • Figma • Slack • BaseCamp
+
+
+# 🤝 Connect With Me
+
+📧 Email: arorasarthak54@gmail.com
+💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+🌐 Portfolio: your_portfolio_link
+
+---
+
+⭐ From [Sarthak Arora]
