@@ -69,8 +69,7 @@ Jira • Notion • Figma • Slack • BaseCamp
 # 🤝 Connect With Me
 
 📧 Email: arorasarthak54@gmail.com
-💼 LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-🌐 Portfolio: your_portfolio_link
+💼 LinkedIn: [https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/sarthak-brahmvar-0a648b1ab/)
 
 ---
 
