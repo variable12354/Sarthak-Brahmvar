@@ -1,6 +1,6 @@
 # Hi 👋 I'm Sarthak Arora
 
-💻 **Android Developer | Kotlin | Jetpack Compose | Kotlin Multiplatform | Flutter | Flutter Window** 
+💻 **Senior Android Developer | Kotlin | Jetpack Compose | Kotlin Multiplatform | Flutter | Flutter Window** 
 
 🚀 Passionate Android developer with **4+ years of experience** building scalable and high-performance mobile applications.
 I focus on **clean architecture, performance optimization, and modern Android development**.
